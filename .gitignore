@@ -1,0 +1,8 @@
+# Datos grandes (se regeneran; traza.csv.gz sí se incluye)
+datos/traza.csv
+datos/traza.pcap
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
